@@ -1,0 +1,12 @@
+{
+  "basics":{
+    "name":"mounisha",
+    "age":"20",
+    "role":"student",
+    "mobile":"934689752",
+    "email":"abcd@gmail.com"
+  },
+  "career" : {
+    "objective":"to pursue a challenging career and play a best role"
+  }
+}
